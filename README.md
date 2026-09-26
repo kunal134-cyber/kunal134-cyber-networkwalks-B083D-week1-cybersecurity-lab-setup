@@ -59,6 +59,7 @@ All security testing performed in this laboratory must be limited to systems tha
 Lab Architecture
 
 
+![Screenshot](./Screenshot%20From%202026-09-26%2006-26-57.png)
 
 Additional target machines can be added to the same virtual network in future projects.
 
